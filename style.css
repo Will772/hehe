@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1{
+    text-align: center;
+    margin: 30px;
+}
+
+.imagem-pequena{
+    max-width: 300px;
+    height: 300px;
+}
+
+.alinhamento{
+    text-align: center;
+}
+
+.botoes{
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    margin: 20px;
+    text-align: center;
+    font-size: 3em;
+    border-radius: 10px;
+}
+
+.botoes:hover{
+    color: black;
+    background-color: rgb(102, 4, 4);
+    transition-duration: 0.5s;
+
+}
+
+.paragrafo-grande{
+    font-size: 2em;
+    text-align: center;
+
+}
+
